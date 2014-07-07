@@ -1,4 +1,4 @@
-package de.kthoms.scout.rt.extension.client.ui.basic.table;
+package com.itemis.scout.rt.extension.client.ui.basic.table;
 
 import org.eclipse.scout.commons.annotations.ConfigProperty;
 import org.eclipse.scout.rt.extension.client.ui.basic.table.AbstractExtensibleTable;

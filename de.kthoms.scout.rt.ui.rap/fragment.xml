@@ -7,7 +7,7 @@
             active="true"
             modelClass="org.eclipse.scout.rt.client.ui.form.fields.tablefield.ITableField"
             name="Table field"
-            scope="local">
+            scope="global">
             <uiClass
               class="org.eclipse.scout.rt.ui.rap.form.fields.tablefield.RwtScoutTableFieldExt">
             </uiClass>
