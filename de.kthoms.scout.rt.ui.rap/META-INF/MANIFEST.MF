@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Scout UI RAP - Extension
+Bundle-SymbolicName: com.rhenus.scout.rt.ui.rap;singleton:=true
+Bundle-Version: 0.14.0.qualifier
+Bundle-Vendor: RHENUS
+Fragment-Host: org.eclipse.scout.rt.ui.rap;bundle-version="3.9.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: org.eclipse.scout.rt.ui.rap.form.fields.tablefield

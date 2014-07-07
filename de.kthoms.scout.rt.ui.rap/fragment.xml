@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<fragment>
+  <extension
+        point="org.eclipse.scout.rt.ui.rap.formfields">
+      <formField
+            active="true"
+            modelClass="org.eclipse.scout.rt.client.ui.form.fields.tablefield.ITableField"
+            name="Table field"
+            scope="local">
+            <uiClass
+              class="org.eclipse.scout.rt.ui.rap.form.fields.tablefield.RwtScoutTableFieldExt">
+            </uiClass>
+      </formField>
+  </extension>
+
+</fragment>
