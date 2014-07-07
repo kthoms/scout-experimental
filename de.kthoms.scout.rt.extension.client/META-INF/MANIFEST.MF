@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Client
+Bundle-SymbolicName: de.kthoms.scout.rt.extension.client
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: de.kthoms.scout.rt.extension.client.ui.basic.table
+Require-Bundle: org.eclipse.scout.rt.extension.client
